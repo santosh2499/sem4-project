@@ -137,7 +137,6 @@ PyMySQL==1.1.0
 pyparsing==3.1.2
 PypeR==1.1.2
 pyperclip==1.9.0
-pypiwin32==223
 pypng==0.20220715.0
 pyserial==3.5
 pyshorteners==1.0.1
